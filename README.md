@@ -41,8 +41,11 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 
 ## Overig
 
+- *The Sense of Structure* - George D. Gopen
+    - Erg nuttig om te begrijpen hoe je als schrijver de juiste boodschap overbrengt aan je lezers. George Gopen doet dit aan de hand van de Reader Expectation Approach. Het helpt om erachter te komen wat een lezer verwacht en hoe je die kennis als schrijver kunt gebruiken.
+    - Veel van de principes worden ook uitgelegd in the Litigation Articles <https://www.georgegopen.com/the-litigation-articles.html>
 - **The design of everyday things** - Don Norman
-    - Over ontwerpen: hoe maak je iets dat goed functioneert, dat voldoet aan de wensen van de gebruikers?
+    - Over ontwerpen: hoe maak je iets dat goed functioneert, dat voldoet aan de wensen van de gebruikers.
 - *An introduction to APIs* - Brian Cooksey
     - Over hoe APIs werken
     - <https://zapier.com/learn/apis/>
