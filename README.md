@@ -14,7 +14,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     - <https://r4ds.had.co.nz>
 - *Advanced R* - Hadley Wickham
     - <https://adv-r.hadley.nz/>
-- *R packages*
+- *R packages* - Hadley Wickham, Jenny Bryan
     - Eerste editie <http://r-pkgs.had.co.nz/> 
     - Tweede editie <https://r-pkgs.org/> (under construction)
 - Happy Git and GitHub for the useR - Jenny Bryan
