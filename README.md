@@ -46,7 +46,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     - Veel van de principes worden ook uitgelegd in the Litigation Articles <https://www.georgegopen.com/the-litigation-articles.html>
 - **The design of everyday things** - Don Norman
     - Over ontwerpen: hoe maak je iets dat goed functioneert, dat voldoet aan de wensen van de gebruikers.
-- *An introduction to APIs* - Brian Cooksey
+- **An introduction to APIs** - Brian Cooksey
     - Over hoe APIs werken
     - <https://zapier.com/learn/apis/>
 - Information Dashboard design - Stephen Few
