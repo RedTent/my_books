@@ -36,6 +36,9 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     <https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about>
 - Elements of Statistical Learning - Hastie, Tibshirani and Friedman (2009)
     - <https://web.stanford.edu/~hastie/ElemStatLearn/>
+- Applied Predictive Modeling - Max Kuhn, Kjell Johnson
+    - Praktische toepassing van vorospelling
+    - Op basis van R.
 
 ---
 
