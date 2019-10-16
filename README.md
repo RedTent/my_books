@@ -55,7 +55,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - Information Dashboard design - Stephen Few
 
 
----    
+---
 
 ## Wensenlijst
 
@@ -63,6 +63,18 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     - <http://www.storytellingwithdata.com/books>
 
 ---
+
+## Podcasts
+
+- *Not So Standard Deviations* - Roger Peng & Hilary Parker
+    - Not So Standard Deviations: The Data Science Podcast Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
+    - <http://nssdeviations.com/>
+- *Storytelling with Data Podcast* - Cole Nussbaumer Knaflic
+    - Rid your world of ineffective graphs and mediocre presentations, one exploding 3D pie chart at a time! The storytelling with data podcast covers topics related to data storytelling, better presentations, and all things data viz. There is a story in your data—get the skills and power to tell it!
+    - <http://www.storytellingwithdata.com/podcast>
+    
+---
+
     
 **Vet** betekent geheel gelezen
 
