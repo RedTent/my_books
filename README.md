@@ -54,9 +54,15 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     - <https://zapier.com/learn/apis/>
 - Information Dashboard design - Stephen Few
 
-    
 
 ---    
+
+## Wensenlijst
+
+- Storytelling with Data - Cole Nussbaumer Knaflic
+    - <http://www.storytellingwithdata.com/books>
+
+---
     
 **Vet** betekent geheel gelezen
 
