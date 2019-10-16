@@ -1,3 +1,15 @@
+---
+#title: "Rapportage"
+#author: "Johan van Tent"
+date: "16 oktober 2019"
+output:
+  html_document: 
+    keep_md: yes
+    toc: yes
+    toc_float:
+      collapsed: no
+---
+
 # Mijn boeken
 
 Lijst van interessante (gelezen) boeken en eventuele andere resources
@@ -64,7 +76,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 
 ---
 
-## Podcasts
+# Podcasts
 
 - *Not So Standard Deviations* - Roger Peng & Hilary Parker
     - Not So Standard Deviations: The Data Science Podcast Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
@@ -75,6 +87,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     
 ---
 
+# Toelichting
     
 **Vet** betekent geheel gelezen
 
