@@ -1,7 +1,7 @@
 ---
 #title: "Rapportage"
 #author: "Johan van Tent"
-date: "16 oktober 2019"
+date: "02 november 2019"
 output:
   html_document: 
     keep_md: yes
@@ -41,6 +41,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 ---
 
 ## Data Science
+
 -  **An Introduction to Statistical Learning with Applications in R** -  Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
     - Introductie in allerlei methodes voor *Statistical learning* (Machine learning)
     - <http://faculty.marshall.usc.edu/gareth-james/ISL/>
@@ -49,8 +50,16 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - Elements of Statistical Learning - Hastie, Tibshirani and Friedman (2009)
     - <https://web.stanford.edu/~hastie/ElemStatLearn/>
 - Applied Predictive Modeling - Max Kuhn, Kjell Johnson
-    - Praktische toepassing van vorospelling
+    - Praktische toepassing van voorspelling
     - Op basis van R.
+
+---
+
+## Data Visualisatie
+
+- Storytelling with Data - Cole Nussbaumer Knaflic
+    - <http://www.storytellingwithdata.com/books>
+
 
 ---
 
@@ -71,8 +80,6 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 
 ## Wensenlijst
 
-- Storytelling with Data - Cole Nussbaumer Knaflic
-    - <http://www.storytellingwithdata.com/books>
 
 ---
 
