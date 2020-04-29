@@ -1,7 +1,7 @@
 ---
 #title: "Rapportage"
 #author: "Johan van Tent"
-date: "01 februari 2020"
+date: "29 april 2020"
 output:
   html_document: 
     keep_md: yes
@@ -53,7 +53,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     - Praktische toepassing van voorspelling
     - Op basis van R.
     
-- Forecasting: Principles and Practice - Rob J. Hyndman, George athanasopoulos
+- *Forecasting: Principles and Practice* - Rob J. Hyndman, George athanasopoulos
     - Analyse en voorspellen van tijdreeksen
     - <https://otexts.com/fpp3/>
     - Zie ook: <https://github.com/rstudio-conf-2020/time-series-forecasting>
@@ -62,8 +62,17 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 
 ## Data Visualisatie
 
-- *Storytelling with Data* - Cole Nussbaumer Knaflic
+- **Storytelling with Data** - Cole Nussbaumer Knaflic
+    - Hoe gebruik je grafieken om een duidelijke boodschap over te brengen
     - <http://www.storytellingwithdata.com/books>
+- **The visual display of quantitative information** - Edward Tufte
+    - Klassieker over het weergeven van data in grafieken.
+    - <https://www.edwardtufte.com/tufte/books_vdqi>
+- *Show Me the Numbers* - Stephen Few
+    - Gedetailleerde uitleg over het ontwerp van tabellen en grafieken
+    - <http://www.stephen-few.com/smtn.php>
+- Fundamentals of Data Visualization - Claus O. Wilke
+    - <https://serialmentor.com/dataviz/>
 
 
 
@@ -80,7 +89,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - **An introduction to APIs** - Brian Cooksey
     - Over hoe APIs werken
     - <https://zapier.com/learn/apis/>
-- Information Dashboard design - Stephen Few
+
 
 
 ---
@@ -95,6 +104,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - #MakeoverMonday - Andy Kriebel, Eva Murray
 - The Truthful Art - Alberto Cairo
 - The Functional Art - Alberto Cairo
+- Information Dashboard design - Stephen Few
 
 ---
 
