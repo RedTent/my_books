@@ -1,7 +1,7 @@
 ---
 #title: "Rapportage"
 #author: "Johan van Tent"
-date: "29 april 2020"
+date: "22 juni 2020"
 output:
   html_document: 
     keep_md: yes
@@ -37,6 +37,8 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - *Geocomputation with R* - Robin Lovelace
     - Erg nuttig als je met geo-data in R werkt.
     - <https://geocompr.robinlovelace.net/>
+- Mastering Shiny - Hadley Wickham
+    - <https://mastering-shiny.org/>
 
 ---
 
@@ -68,12 +70,13 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - **The visual display of quantitative information** - Edward Tufte
     - Klassieker over het weergeven van data in grafieken.
     - <https://www.edwardtufte.com/tufte/books_vdqi>
-- *Show Me the Numbers* - Stephen Few
+- **Show Me the Numbers** - Stephen Few
     - Gedetailleerde uitleg over het ontwerp van tabellen en grafieken
     - <http://www.stephen-few.com/smtn.php>
 - Fundamentals of Data Visualization - Claus O. Wilke
     - <https://serialmentor.com/dataviz/>
-
+- *Info We Trust* - R.J. Andrews
+    - Meer filosofisch ingestoken boek over data-visualisatie
 
 
 
@@ -96,10 +99,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 
 ## Wensenlijst
 
-- Info We Trust - R.J. Andrews
-- Show Me the Numbers - Stephen Few
 - Now you see it - Stephen Few
-- The visual display of quantitative information - Edward Tufte
 - The Big Book of Dashboards - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave
 - #MakeoverMonday - Andy Kriebel, Eva Murray
 - The Truthful Art - Alberto Cairo
