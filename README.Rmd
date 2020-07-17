@@ -54,6 +54,9 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - Applied Predictive Modeling - Max Kuhn, Kjell Johnson
     - Praktische toepassing van voorspelling
     - Op basis van R.
+- Interpretable Machine Learning - Christoph Molnar
+    - Over hoe je voorkomt dat machine learning alleen een black-box is.
+    - <https://christophm.github.io/interpretable-ml-book/>
     
 - *Forecasting: Principles and Practice* - Rob J. Hyndman, George athanasopoulos
     - Analyse en voorspellen van tijdreeksen
@@ -75,7 +78,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     - <http://www.stephen-few.com/smtn.php>
 - Fundamentals of Data Visualization - Claus O. Wilke
     - <https://serialmentor.com/dataviz/>
-- *Info We Trust* - R.J. Andrews
+- **Info We Trust** - R.J. Andrews
     - Meer filosofisch ingestoken boek over data-visualisatie
 
 
@@ -92,18 +95,16 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - **An introduction to APIs** - Brian Cooksey
     - Over hoe APIs werken
     - <https://zapier.com/learn/apis/>
-
+- The Creative Curve - Allen Gannett
+    - How to Develop the Right Idea, at the Right Time
 
 
 ---
 
 ## Wensenlijst
 
-- Now you see it - Stephen Few
-- The Big Book of Dashboards - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave
 - #MakeoverMonday - Andy Kriebel, Eva Murray
 - The Truthful Art - Alberto Cairo
-- The Functional Art - Alberto Cairo
 - Information Dashboard design - Stephen Few
 
 ---
