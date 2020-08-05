@@ -1,7 +1,7 @@
 ---
 #title: "Rapportage"
 #author: "Johan van Tent"
-date: "17 juli 2020"
+date: "05 augustus 2020"
 output:
   html_document: 
     keep_md: yes
@@ -106,6 +106,8 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - #MakeoverMonday - Andy Kriebel, Eva Murray
 - The Truthful Art - Alberto Cairo
 - Information Dashboard design - Stephen Few
+- Information Visualization - Colin Ware
+- Visual Thinking for Design - Colin Ware
 
 ---
 
