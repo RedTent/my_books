@@ -1,7 +1,7 @@
 ---
 #title: "Rapportage"
 #author: "Johan van Tent"
-date: "05 augustus 2020"
+date: "02 september 2020"
 output:
   html_document: 
     keep_md: yes
@@ -37,8 +37,9 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - *Geocomputation with R* - Robin Lovelace
     - Erg nuttig als je met geo-data in R werkt.
     - <https://geocompr.robinlovelace.net/>
-- Mastering Shiny - Hadley Wickham
+- **Mastering Shiny** - Hadley Wickham
     - <https://mastering-shiny.org/>
+    - under construction
 
 ---
 
@@ -80,6 +81,8 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     - <https://serialmentor.com/dataviz/>
 - **Info We Trust** - R.J. Andrews
     - Meer filosofisch ingestoken boek over data-visualisatie
+- *The Big Book of Dashboards* - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave
+    - Grote hoeveelheid voorbeelden van dashboards voor uiteenlopende situaties
 
 
 
@@ -95,7 +98,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - **An introduction to APIs** - Brian Cooksey
     - Over hoe APIs werken
     - <https://zapier.com/learn/apis/>
-- The Creative Curve - Allen Gannett
+- **The Creative Curve** - Allen Gannett
     - How to Develop the Right Idea, at the Right Time
 
 
