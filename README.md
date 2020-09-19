@@ -1,7 +1,7 @@
 ---
 #title: "Rapportage"
 #author: "Johan van Tent"
-date: "02 september 2020"
+date: "19 september 2020"
 output:
   html_document: 
     keep_md: yes
@@ -34,12 +34,16 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     - <https://happygitwithr.com/>
 - Efficient R-programming - Colin Gillespie
     - <https://bookdown.org/csgillespie/efficientR/>
+- Hands on programming with R - Garett Grolemund
+    - <https://rstudio-education.github.io/hopr/>
 - *Geocomputation with R* - Robin Lovelace
     - Erg nuttig als je met geo-data in R werkt.
     - <https://geocompr.robinlovelace.net/>
 - **Mastering Shiny** - Hadley Wickham
     - <https://mastering-shiny.org/>
     - under construction
+- **Tidyverse design guide** - Tidyverse Team
+    - <https://design.tidyverse.org/>
 
 ---
 
@@ -58,8 +62,12 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - Interpretable Machine Learning - Christoph Molnar
     - Over hoe je voorkomt dat machine learning alleen een black-box is.
     - <https://christophm.github.io/interpretable-ml-book/>
+- Supervised Machine Learning for Text Analysis in R - Emil Hvitfeldt and Julia Silge
+    - <https://smltar.com/>
+- Tidy Modeling with R - Max Kuhn and Julia Silge
+    - <https://www.tmwr.org/>
     
-- *Forecasting: Principles and Practice* - Rob J. Hyndman, George athanasopoulos
+- **Forecasting: Principles and Practice** - Rob J. Hyndman, George Athanasopoulos
     - Analyse en voorspellen van tijdreeksen
     - <https://otexts.com/fpp3/>
     - Zie ook: <https://github.com/rstudio-conf-2020/time-series-forecasting>
@@ -107,7 +115,6 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 ## Wensenlijst
 
 - #MakeoverMonday - Andy Kriebel, Eva Murray
-- The Truthful Art - Alberto Cairo
 - Information Dashboard design - Stephen Few
 - Information Visualization - Colin Ware
 - Visual Thinking for Design - Colin Ware
