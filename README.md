@@ -1,7 +1,7 @@
 ---
 #title: "Rapportage"
 #author: "Johan van Tent"
-date: "19 september 2020"
+date: "25 september 2020"
 output:
   html_document: 
     keep_md: yes
@@ -32,7 +32,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - Happy Git and GitHub for the useR - Jenny Bryan
     - Nuttig als je met Git of GitHub aan de slag gaat.
     - <https://happygitwithr.com/>
-- Efficient R-programming - Colin Gillespie
+- **Efficient R-programming** - Colin Gillespie
     - <https://bookdown.org/csgillespie/efficientR/>
 - Hands on programming with R - Garett Grolemund
     - <https://rstudio-education.github.io/hopr/>
