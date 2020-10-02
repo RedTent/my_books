@@ -18,38 +18,38 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 
 ## R-related
 
-- **Mastering Software Development in R** - Roger Peng
-    - Bij de bijbehorende cursus op Coursera. De cursus is gratis te volgen, maar voor een certificaat betaal je enkele tientjes.
+- **Mastering Software Development in R** - Roger Peng - *2017*
+    - Bij de bijbehorende cursus op Coursera. De cursus is gratis te volgen, maar voor een certificaat betaal je enkele tientjes. 
     - <https://bookdown.org/rdpeng/RProgDA/>
-- **R for Data Science (R4DS)** - Hadley Wickham
+- **R for Data Science (R4DS)** - Hadley Wickham - *2019*
     - Goede introductie in de tidyverse en gebruik van R in het algemeen
     - <https://r4ds.had.co.nz>
-- *Advanced R* - Hadley Wickham
+- *Advanced R* - Hadley Wickham - *2019*
     - <https://adv-r.hadley.nz/>
-- *R packages* - Hadley Wickham, Jenny Bryan
+- *R packages* - Hadley Wickham, Jenny Bryan 
     - Eerste editie <http://r-pkgs.had.co.nz/> 
     - Tweede editie <https://r-pkgs.org/> (under construction)
 - Happy Git and GitHub for the useR - Jenny Bryan
     - Nuttig als je met Git of GitHub aan de slag gaat.
     - <https://happygitwithr.com/>
-- **Efficient R-programming** - Colin Gillespie
+- **Efficient R-programming** - Colin Gillespie - *2020*
     - <https://bookdown.org/csgillespie/efficientR/>
 - Hands on programming with R - Garett Grolemund
     - <https://rstudio-education.github.io/hopr/>
-- *Geocomputation with R* - Robin Lovelace
+- *Geocomputation with R* - Robin Lovelace  - *2020*
     - Erg nuttig als je met geo-data in R werkt.
     - <https://geocompr.robinlovelace.net/>
-- **Mastering Shiny** - Hadley Wickham
+- **Mastering Shiny** - Hadley Wickham - *2020*
     - <https://mastering-shiny.org/>
     - under construction
-- **Tidyverse design guide** - Tidyverse Team
+- **Tidyverse design guide** - Tidyverse Team - *2019*
     - <https://design.tidyverse.org/>
 
 ---
 
 ## Data Science
 
--  **An Introduction to Statistical Learning with Applications in R** -  Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+-  **An Introduction to Statistical Learning with Applications in R** -  Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani - *2018*
     - Introductie in allerlei methodes voor *Statistical learning* (Machine learning)
     - <http://faculty.marshall.usc.edu/gareth-james/ISL/>
     - Zie ook de bijbehorende gratis cursus op de Stanford pagina
@@ -67,7 +67,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - Tidy Modeling with R - Max Kuhn and Julia Silge
     - <https://www.tmwr.org/>
     
-- **Forecasting: Principles and Practice** - Rob J. Hyndman, George Athanasopoulos
+- **Forecasting: Principles and Practice** - Rob J. Hyndman, George Athanasopoulos - *2020*
     - Analyse en voorspellen van tijdreeksen
     - <https://otexts.com/fpp3/>
     - Zie ook: <https://github.com/rstudio-conf-2020/time-series-forecasting>
@@ -76,20 +76,23 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 
 ## Data Visualisatie
 
-- **Storytelling with Data** - Cole Nussbaumer Knaflic
+- **Storytelling with Data** - Cole Nussbaumer Knaflic - *2019*
     - Hoe gebruik je grafieken om een duidelijke boodschap over te brengen
     - <http://www.storytellingwithdata.com/books>
-- **The visual display of quantitative information** - Edward Tufte
+- **The visual display of quantitative information** - Edward Tufte - *2020*
     - Klassieker over het weergeven van data in grafieken.
     - <https://www.edwardtufte.com/tufte/books_vdqi>
-- **Show Me the Numbers** - Stephen Few
+- **Show Me the Numbers** - Stephen Few - *2020*
     - Gedetailleerde uitleg over het ontwerp van tabellen en grafieken
     - <http://www.stephen-few.com/smtn.php>
+- **Signal** - Stephen Few - *2020*
+    - Over het onderscheiden van signaal en ruis
+    - Veel overlap met andere boeken en de aanpak is beperkt toepasbaar
 - Fundamentals of Data Visualization - Claus O. Wilke
     - <https://serialmentor.com/dataviz/>
-- **Info We Trust** - R.J. Andrews
+- **Info We Trust** - R.J. Andrews - *2020*
     - Meer filosofisch ingestoken boek over data-visualisatie
-- *The Big Book of Dashboards* - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave
+- *The Big Book of Dashboards* - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave - *2020*
     - Grote hoeveelheid voorbeelden van dashboards voor uiteenlopende situaties
 
 
@@ -98,15 +101,15 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 
 ## Overig
 
-- **The Sense of Structure** - George D. Gopen
+- **The Sense of Structure** - George D. Gopen - *2018*
     - Erg nuttig om te begrijpen hoe je als schrijver de juiste boodschap overbrengt aan je lezers. George Gopen doet dit aan de hand van de Reader Expectation Approach. Het helpt om erachter te komen wat een lezer verwacht en hoe je die kennis als schrijver kunt gebruiken.
     - Veel van de principes worden ook uitgelegd in the Litigation Articles <https://www.georgegopen.com/the-litigation-articles.html>
-- **The design of everyday things** - Don Norman
+- **The design of everyday things** - Don Norman - *2017*
     - Over ontwerpen: hoe maak je iets dat goed functioneert, dat voldoet aan de wensen van de gebruikers.
-- **An introduction to APIs** - Brian Cooksey
+- **An introduction to APIs** - Brian Cooksey - *2019*
     - Over hoe APIs werken
     - <https://zapier.com/learn/apis/>
-- **The Creative Curve** - Allen Gannett
+- **The Creative Curve** - Allen Gannett - *2020*
     - How to Develop the Right Idea, at the Right Time
 
 
