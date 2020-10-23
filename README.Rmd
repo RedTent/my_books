@@ -24,26 +24,26 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - **R for Data Science (R4DS)** - Hadley Wickham - *2019*
     - Goede introductie in de tidyverse en gebruik van R in het algemeen
     - <https://r4ds.had.co.nz>
-- *Advanced R* - Hadley Wickham - *2019*
-    - <https://adv-r.hadley.nz/>
-- *R packages* - Hadley Wickham, Jenny Bryan 
-    - Eerste editie <http://r-pkgs.had.co.nz/> 
-    - Tweede editie <https://r-pkgs.org/> (under construction)
-- Happy Git and GitHub for the useR - Jenny Bryan
-    - Nuttig als je met Git of GitHub aan de slag gaat.
-    - <https://happygitwithr.com/>
-- **Efficient R-programming** - Colin Gillespie - *2020*
-    - <https://bookdown.org/csgillespie/efficientR/>
-- Hands on programming with R - Garett Grolemund
-    - <https://rstudio-education.github.io/hopr/>
-- *Geocomputation with R* - Robin Lovelace  - *2020*
-    - Erg nuttig als je met geo-data in R werkt.
-    - <https://geocompr.robinlovelace.net/>
 - **Mastering Shiny** - Hadley Wickham - *2020*
     - <https://mastering-shiny.org/>
     - under construction
 - **Tidyverse design guide** - Tidyverse Team - *2019*
     - <https://design.tidyverse.org/>
+- **Efficient R-programming** - Colin Gillespie - *2020*
+    - <https://bookdown.org/csgillespie/efficientR/>
+- *Advanced R* - Hadley Wickham - *2019*
+    - <https://adv-r.hadley.nz/>
+- *R packages* - Hadley Wickham, Jenny Bryan 
+    - Eerste editie <http://r-pkgs.had.co.nz/> 
+    - Tweede editie <https://r-pkgs.org/> (under construction)
+- *Geocomputation with R* - Robin Lovelace  - *2020*
+    - Erg nuttig als je met geo-data in R werkt.
+    - <https://geocompr.robinlovelace.net/>
+- Happy Git and GitHub for the useR - Jenny Bryan
+    - Nuttig als je met Git of GitHub aan de slag gaat.
+    - <https://happygitwithr.com/>
+- Hands on programming with R - Garett Grolemund
+    - <https://rstudio-education.github.io/hopr/>
 - R Markdown Cookbook
     - <https://bookdown.org/yihui/rmarkdown-cookbook/>
 - R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund 
@@ -61,6 +61,10 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     - <http://faculty.marshall.usc.edu/gareth-james/ISL/>
     - Zie ook de bijbehorende gratis cursus op de Stanford pagina
     <https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about>
+- **Forecasting: Principles and Practice** - Rob J. Hyndman, George Athanasopoulos - *2020*
+    - Analyse en voorspellen van tijdreeksen
+    - <https://otexts.com/fpp3/>
+    - Zie ook: <https://github.com/rstudio-conf-2020/time-series-forecasting>
 - Elements of Statistical Learning - Hastie, Tibshirani and Friedman (2009)
     - <https://web.stanford.edu/~hastie/ElemStatLearn/>
 - Applied Predictive Modeling - Max Kuhn, Kjell Johnson
@@ -74,10 +78,6 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - Tidy Modeling with R - Max Kuhn and Julia Silge
     - <https://www.tmwr.org/>
     
-- **Forecasting: Principles and Practice** - Rob J. Hyndman, George Athanasopoulos - *2020*
-    - Analyse en voorspellen van tijdreeksen
-    - <https://otexts.com/fpp3/>
-    - Zie ook: <https://github.com/rstudio-conf-2020/time-series-forecasting>
 
 ---
 
@@ -148,7 +148,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 
 # Video's
 
-- Plotting anything with ggplot2 - Thomas Lin Pedersen - *2020*
+- **Plotting anything with ggplot2** - Thomas Lin Pedersen - *2020*
     - Uitgebreide workshop over hoe ggplot2 werkt
     - Deel 1: <https://www.youtube.com/watch?v=h29g21z0a68> (2,5 uur)
     - Deel 2: <https://www.youtube.com/watch?v=0m4yywqNPVY> (2 uur)
