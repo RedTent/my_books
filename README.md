@@ -1,7 +1,7 @@
 ---
 #title: "Rapportage"
 #author: "Johan van Tent"
-date: "02 oktober 2020"
+date: "23 oktober 2020"
 output:
   html_document: 
     keep_md: yes
@@ -44,6 +44,13 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     - under construction
 - **Tidyverse design guide** - Tidyverse Team - *2019*
     - <https://design.tidyverse.org/>
+- R Markdown Cookbook
+    - <https://bookdown.org/yihui/rmarkdown-cookbook/>
+- R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund 
+    - <https://bookdown.org/yihui/rmarkdown/>
+- bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie
+    - <https://bookdown.org/yihui/bookdown/>
+- 
 
 ---
 
@@ -94,6 +101,11 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     - Meer filosofisch ingestoken boek over data-visualisatie
 - *The Big Book of Dashboards* - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave - *2020*
     - Grote hoeveelheid voorbeelden van dashboards voor uiteenlopende situaties
+- *The Functional Art* - Alberto Cairo - *2020*
+    - Benaderd het vanuit een journalistiek perspectief.
+    - Veel aandacht voor infographics
+- Information Visualization - Colin Ware
+- Visual Thinking for Design - Colin Ware
 
 
 
@@ -119,8 +131,7 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 
 - #MakeoverMonday - Andy Kriebel, Eva Murray
 - Information Dashboard design - Stephen Few
-- Information Visualization - Colin Ware
-- Visual Thinking for Design - Colin Ware
+
 
 ---
 
@@ -135,8 +146,17 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
     
 ---
 
+# Video's
+
+- Plotting anything with ggplot2 - Thomas Lin Pedersen - *2020*
+    - Uitgebreide workshop over hoe ggplot2 werkt
+    - Deel 1: <https://www.youtube.com/watch?v=h29g21z0a68> (2,5 uur)
+    - Deel 2: <https://www.youtube.com/watch?v=0m4yywqNPVY> (2 uur)
+
+---
+
 # Toelichting
-    
+
 **Vet** betekent geheel gelezen
 
 *Cursief* betekent gedeeltelijk gelezen
