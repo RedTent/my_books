@@ -1,7 +1,7 @@
 ---
 #title: "Rapportage"
 #author: "Johan van Tent"
-date: "23 oktober 2020"
+date: "24 oktober 2020"
 output:
   html_document: 
     keep_md: yes
@@ -95,18 +95,17 @@ Lijst van interessante (gelezen) boeken en eventuele andere resources
 - **Signal** - Stephen Few - *2020*
     - Over het onderscheiden van signaal en ruis
     - Veel overlap met andere boeken en de aanpak is beperkt toepasbaar
-- Fundamentals of Data Visualization - Claus O. Wilke
-    - <https://serialmentor.com/dataviz/>
 - **Info We Trust** - R.J. Andrews - *2020*
     - Meer filosofisch ingestoken boek over data-visualisatie
+- **The Functional Art** - Alberto Cairo - *2020*
+    - Benadert het vanuit een journalistiek perspectief.
+    - Veel aandacht voor infographics
 - *The Big Book of Dashboards* - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave - *2020*
     - Grote hoeveelheid voorbeelden van dashboards voor uiteenlopende situaties
-- *The Functional Art* - Alberto Cairo - *2020*
-    - Benaderd het vanuit een journalistiek perspectief.
-    - Veel aandacht voor infographics
+- Fundamentals of Data Visualization - Claus O. Wilke
+    - <https://serialmentor.com/dataviz/>
 - Information Visualization - Colin Ware
 - Visual Thinking for Design - Colin Ware
-
 
 
 ---
