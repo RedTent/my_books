@@ -1,5 +1,5 @@
 ---
-#title: "Rapportage"
+title: "Mijn boeken"
 #author: "Johan van Tent"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output:
@@ -9,8 +9,6 @@ output:
     toc_float:
       collapsed: no
 ---
-
-# Mijn boeken
 
 Lijst van interessante (gelezen) boeken en andere resources
 
@@ -105,7 +103,7 @@ Lijst van interessante (gelezen) boeken en andere resources
 - Fundamentals of Data Visualization - Claus O. Wilke
     - <https://serialmentor.com/dataviz/>
 - Information Visualization - Colin Ware
-- Visual Thinking for Design - Colin Ware
+- *Visual Thinking for Design* - Colin Ware
 
 
 ---
@@ -122,7 +120,7 @@ Lijst van interessante (gelezen) boeken en andere resources
     - <https://zapier.com/learn/apis/>
 - **The Creative Curve** - Allen Gannett - *2020*
     - How to Develop the Right Idea, at the Right Time
-- *How design makes the world* - Scott Berkun - *2020*
+- **How design makes the world** - Scott Berkun - *2020*
 
 
 ---

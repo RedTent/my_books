@@ -1,7 +1,7 @@
 ---
-#title: "Rapportage"
+title: "Mijn boeken"
 #author: "Johan van Tent"
-date: "20 november 2020"
+date: "17 december 2020"
 output:
   html_document: 
     keep_md: yes
@@ -9,8 +9,6 @@ output:
     toc_float:
       collapsed: no
 ---
-
-# Mijn boeken
 
 Lijst van interessante (gelezen) boeken en andere resources
 
