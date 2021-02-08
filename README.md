@@ -1,7 +1,7 @@
 ---
 title: "Mijn boeken"
 #author: "Johan van Tent"
-date: "17 december 2020"
+date: "08 februari 2021"
 output:
   html_document: 
     keep_md: yes
@@ -13,6 +13,10 @@ output:
 Lijst van interessante (gelezen) boeken en andere resources
 
 ---
+
+# Boeken
+
+Veel van de onderstaande boeken zijn (ook) online te lezen.
 
 ## R-related
 
@@ -32,6 +36,9 @@ Lijst van interessante (gelezen) boeken en andere resources
 - **Geocomputation with R** - Robin Lovelace  - *2020*
     - Erg nuttig als je met geo-data in R werkt.
     - <https://geocompr.robinlovelace.net/>
+- **R Markdown Cookbook** - *2021*
+    - Een schat aan tips en trucs voor het werken met R Markdown
+    - <https://bookdown.org/yihui/rmarkdown-cookbook/>
 - *Advanced R* - Hadley Wickham - *2019*
     - <https://adv-r.hadley.nz/>
 - *R packages* - Hadley Wickham, Jenny Bryan 
@@ -42,8 +49,6 @@ Lijst van interessante (gelezen) boeken en andere resources
     - <https://happygitwithr.com/>
 - Hands on programming with R - Garett Grolemund
     - <https://rstudio-education.github.io/hopr/>
-- R Markdown Cookbook
-    - <https://bookdown.org/yihui/rmarkdown-cookbook/>
 - R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund 
     - <https://bookdown.org/yihui/rmarkdown/>
 - bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie
@@ -100,9 +105,10 @@ Lijst van interessante (gelezen) boeken en andere resources
     - Veel aandacht voor infographics
 - **The Big Book of Dashboards** - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave - *2020*
     - Grote hoeveelheid voorbeelden van dashboards voor uiteenlopende situaties
+- *Information Visualization - Perception for Design* - Colin Ware
+    - Boek dat diep in gaat op visueel waarnemen en hoe dat leidt tot perceptie. Deze kennis wordt vervolgens vertaald in praktische richtlijnen voor het creëren van visualisaties.
 - Fundamentals of Data Visualization - Claus O. Wilke
     - <https://serialmentor.com/dataviz/>
-- Information Visualization - Colin Ware
 - Visual Thinking for Design - Colin Ware
 
 
@@ -120,7 +126,8 @@ Lijst van interessante (gelezen) boeken en andere resources
     - <https://zapier.com/learn/apis/>
 - **The Creative Curve** - Allen Gannett - *2020*
     - How to Develop the Right Idea, at the Right Time
-- *How design makes the world* - Scott Berkun - *2020*
+- **How design makes the world** - Scott Berkun - *2020*
+    - Overzichtelijk en goed leesbaar boek dat een overzicht geeft wat "design" is en hoe dat in de praktijk  werkt.
 
 
 ---
