@@ -1,7 +1,7 @@
 ---
 title: "Mijn boeken"
 #author: "Johan van Tent"
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: "07 maart 2021"
 output:
   html_document: 
     keep_md: yes
