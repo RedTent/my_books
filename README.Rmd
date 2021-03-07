@@ -26,7 +26,11 @@ Lijst van interessante (gelezen) boeken en andere resources
     - <https://mastering-shiny.org/>
     - under construction
 - **Tidyverse design guide** - Tidyverse Team - *2019*
+    - Principes voor het ontwerpen packages/software
     - <https://design.tidyverse.org/>
+- **The tidyverse style guide**    
+    - Uitgangspunten om overzichtelijk en consistent te scripten.
+    - <https://style.tidyverse.org>
 - **Efficient R-programming** - Colin Gillespie - *2020*
     - <https://bookdown.org/csgillespie/efficientR/>
 - **Geocomputation with R** - Robin Lovelace  - *2020*

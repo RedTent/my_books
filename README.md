@@ -1,7 +1,7 @@
 ---
 title: "Mijn boeken"
 #author: "Johan van Tent"
-date: "17 december 2020"
+date: "07 maart 2021"
 output:
   html_document: 
     keep_md: yes
@@ -26,7 +26,11 @@ Lijst van interessante (gelezen) boeken en andere resources
     - <https://mastering-shiny.org/>
     - under construction
 - **Tidyverse design guide** - Tidyverse Team - *2019*
+    - Principes voor het ontwerpen packages/software
     - <https://design.tidyverse.org/>
+- **The tidyverse style guide**    
+    - Uitgangspunten om overzichtelijk en consistent te scripten.
+    - <https://style.tidyverse.org>
 - **Efficient R-programming** - Colin Gillespie - *2020*
     - <https://bookdown.org/csgillespie/efficientR/>
 - **Geocomputation with R** - Robin Lovelace  - *2020*
@@ -103,7 +107,7 @@ Lijst van interessante (gelezen) boeken en andere resources
 - Fundamentals of Data Visualization - Claus O. Wilke
     - <https://serialmentor.com/dataviz/>
 - Information Visualization - Colin Ware
-- Visual Thinking for Design - Colin Ware
+- *Visual Thinking for Design* - Colin Ware
 
 
 ---
@@ -120,7 +124,7 @@ Lijst van interessante (gelezen) boeken en andere resources
     - <https://zapier.com/learn/apis/>
 - **The Creative Curve** - Allen Gannett - *2020*
     - How to Develop the Right Idea, at the Right Time
-- *How design makes the world* - Scott Berkun - *2020*
+- **How design makes the world** - Scott Berkun - *2020*
 
 
 ---
