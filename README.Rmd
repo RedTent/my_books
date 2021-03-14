@@ -139,6 +139,9 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
 
 - #MakeoverMonday - Andy Kriebel, Eva Murray
 - Information Dashboard design - Stephen Few
+- Badass - Making Users Awesome - Kathy Sierra
+- Style: Lessons in Clarity and Grace - Joseph Williams Joseph Bizup
+- Head First Data Analysis -  Michael Milton
 
 
 ---
