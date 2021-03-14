@@ -1,7 +1,7 @@
 ---
 title: "Mijn boeken"
 #author: "Johan van Tent"
-date: "07 maart 2021"
+date: "14 maart 2021"
 output:
   html_document: 
     keep_md: yes
@@ -57,7 +57,6 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
     - <https://bookdown.org/yihui/rmarkdown/>
 - bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie
     - <https://bookdown.org/yihui/bookdown/>
-- 
 
 ---
 
@@ -161,6 +160,19 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
     - Uitgebreide workshop over hoe ggplot2 werkt
     - Deel 1: <https://www.youtube.com/watch?v=h29g21z0a68> (2,5 uur)
     - Deel 2: <https://www.youtube.com/watch?v=0m4yywqNPVY> (2 uur)
+
+---
+
+# Blogs
+
+- *Creating Passionate Users* - Kathy Sierra
+    - <https://headrush.typepad.com/>
+        - [Too many companies are like bad marriages](https://headrush.typepad.com/creating_passionate_users/2007/02/too_many_compan.html)
+        - [What tail is wagging the "user happiness" dog?](https://headrush.typepad.com/creating_passionate_users/2007/02/what_tail_is_wa.html)
+        - [Don't ask employees to be passionate about the company!](https://headrush.typepad.com/creating_passionate_users/2007/02/dont_ask_employ.html)
+- **Serious Pony** - Kathy Sierra
+    - <http://seriouspony.com/blog>
+    - Twee geweldige artikelen over presenteren en over 'cognitive load'
 
 ---
 
