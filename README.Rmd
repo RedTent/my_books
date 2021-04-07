@@ -43,11 +43,11 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
 - **R Markdown Cookbook** - *2021*
     - Een schat aan tips en trucs voor het werken met R Markdown
     - <https://bookdown.org/yihui/rmarkdown-cookbook/>
+- **R packages** - Hadley Wickham, Jenny Bryan - *2021*
+    - Tweede editie <https://r-pkgs.org/> (under construction)
+    - Eerste editie <http://r-pkgs.had.co.nz/> 
 - *Advanced R* - Hadley Wickham - *2019*
     - <https://adv-r.hadley.nz/>
-- *R packages* - Hadley Wickham, Jenny Bryan 
-    - Eerste editie <http://r-pkgs.had.co.nz/> 
-    - Tweede editie <https://r-pkgs.org/> (under construction)
 - Happy Git and GitHub for the useR - Jenny Bryan
     - Nuttig als je met Git of GitHub aan de slag gaat.
     - <https://happygitwithr.com/>
@@ -108,7 +108,7 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
     - Veel aandacht voor infographics
 - **The Big Book of Dashboards** - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave - *2020*
     - Grote hoeveelheid voorbeelden van dashboards voor uiteenlopende situaties
-- *Information Visualization - Perception for Design* - Colin Ware
+- **Information Visualization - Perception for Design** - Colin Ware - *2021*
     - Boek dat diep in gaat op visueel waarnemen en hoe dat leidt tot perceptie. Deze kennis wordt vervolgens vertaald in praktische richtlijnen voor het creëren van visualisaties.
 - Fundamentals of Data Visualization - Claus O. Wilke
     - <https://serialmentor.com/dataviz/>
@@ -131,6 +131,7 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
     - How to Develop the Right Idea, at the Right Time
 - **How design makes the world** - Scott Berkun - *2020*
     - Overzichtelijk en goed leesbaar boek dat een overzicht geeft wat "design" is en hoe dat in de praktijk  werkt.
+- *Design Thinking* - Nigel Cross - *2021*
 
 
 ---
