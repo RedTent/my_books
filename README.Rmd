@@ -1,5 +1,5 @@
 ---
-title: "Mijn boeken"
+title: "Interessante boeken"
 #author: "Johan van Tent"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output:
@@ -14,11 +14,11 @@ Lijst van interessante (gelezen) boeken en andere resources
 
 ---
 
-# Boeken
+# Boeken {.tabset .tabset-pills}
 
-Veel van de onderstaande boeken zijn (ook) online te lezen.
+Veel van de onderstaande boeken en resources zijn (ook) online te lezen.
 
-## R-related
+## Programmeren in R
 
 - **Mastering Software Development in R** - Roger Peng - *2017*
     - Bij de bijbehorende cursus op Coursera. De cursus is gratis te volgen, maar voor een certificaat betaal je enkele tientjes. 
@@ -47,27 +47,33 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
     - Tweede editie <https://r-pkgs.org/> (under construction)
     - Eerste editie <http://r-pkgs.had.co.nz/> 
 - *Advanced R* - Hadley Wickham - *2019*
+    - *The book is designed primarily for R users who want to improve their programming skills and understanding of the language.*
     - <https://adv-r.hadley.nz/>
 - Happy Git and GitHub for the useR - Jenny Bryan
     - Nuttig als je met Git of GitHub aan de slag gaat.
     - <https://happygitwithr.com/>
 - Hands on programming with R - Garett Grolemund
+    -  *"I wrote it for non-programmers to provide a friendly introduction to the R language. - Garret Grolemund"*
     - <https://rstudio-education.github.io/hopr/>
 - R Markdown: The Definitive Guide - Yihui Xie, J.J. Allaire, Garrett Grolemund 
+    - Uitgebreide handleiding voor R Markdown
     - <https://bookdown.org/yihui/rmarkdown/>
 - bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie
+    - *"This short book introduces an R package, bookdown, to change your workflow of writing books."*
     - <https://bookdown.org/yihui/bookdown/>
 - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Chester Ismay and Albert Y. Kim
-    - “Help! I’m new to R and RStudio and I need to learn them! What do I do?” If you’re asking yourself this, this book is for you.
+    - *“Help! I’m new to R and RStudio and I need to learn them! What do I do?” If you’re asking yourself this, this book is for you.*
     - <https://moderndive.com/>
 - R Graphics Cookbook, 2nd edition - Winston Chang
+    - *"a practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly"*
     - <https://r-graphics.org/>
 - ggplot2: elegant graphics for data analysis - Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen
-    <https://ggplot2-book.org>
+    - *"it’s primary focus is explaining the Grammar of Graphics that ggplot2 uses, and describing the full details."*
+    - <https://ggplot2-book.org>
 
 ---
 
-## Data Science
+## Data-analyse en Data Science
 
 -  **An Introduction to Statistical Learning with Applications in R** -  Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani - *2018*
     - Introductie in allerlei methodes voor *Statistical learning* (Machine learning)
@@ -78,6 +84,9 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
     - Analyse en voorspellen van tijdreeksen
     - <https://otexts.com/fpp3/>
     - Zie ook: <https://github.com/rstudio-conf-2020/time-series-forecasting>
+- **Head First Data Analysis** - Michael Milton - *2021*
+    - Goede introductie als je nog weinig weet over data-analyse.
+    - Boek leest makkelijk weg en heeft interactieve opzet.
 - Elements of Statistical Learning - Hastie, Tibshirani and Friedman (2009)
     - <https://web.stanford.edu/~hastie/ElemStatLearn/>
 - Applied Predictive Modeling - Max Kuhn, Kjell Johnson
@@ -90,6 +99,8 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
     - <https://smltar.com/>
 - Tidy Modeling with R - Max Kuhn and Julia Silge
     - <https://www.tmwr.org/>
+- Feature Engineering and Selection: A Practical Approach for Predictive Models - Max Kuhn and Kjell Johnson
+    - <https://bookdown.org/max/FES/>
     
 
 ---
@@ -138,23 +149,22 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
     - How to Develop the Right Idea, at the Right Time
 - **How design makes the world** - Scott Berkun - *2020*
     - Overzichtelijk en goed leesbaar boek dat een overzicht geeft wat "design" is en hoe dat in de praktijk  werkt.
-- *Design Thinking* - Nigel Cross - *2021*
-
-
----
-
-## Wensenlijst
-
-- #MakeoverMonday - Andy Kriebel, Eva Murray
-- Information Dashboard design - Stephen Few
+- **Design Thinking** - Nigel Cross - *2021*
+    - Hoe werken en denken designers?
+    - Boek met diverse voorbeelden en studies die illustreren hoe designers denken.
 - Badass - Making Users Awesome - Kathy Sierra
-- Style: Lessons in Clarity and Grace - Joseph Williams Joseph Bizup
-- Head First Data Analysis -  Michael Milton
 
 
 ---
 
-# Podcasts
+## Tutorials
+
+- Tidymodels - Get Started
+    - <https://www.tidymodels.org/start/>
+
+---
+
+## Podcasts
 
 - *Not So Standard Deviations* - Roger Peng & Hilary Parker
     - Not So Standard Deviations: The Data Science Podcast Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
@@ -165,7 +175,7 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
     
 ---
 
-# Video's
+## Video's
 
 - **Plotting anything with ggplot2** - Thomas Lin Pedersen - *2020*
     - Uitgebreide workshop over hoe ggplot2 werkt
@@ -174,7 +184,7 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
 
 ---
 
-# Blogs
+## Blogs
 
 - *Creating Passionate Users* - Kathy Sierra
     - <https://headrush.typepad.com/>
@@ -184,6 +194,15 @@ Veel van de onderstaande boeken zijn (ook) online te lezen.
 - **Serious Pony** - Kathy Sierra
     - <http://seriouspony.com/blog>
     - Twee geweldige artikelen over presenteren en over 'cognitive load'
+
+---
+
+## Wensenlijst
+
+- #MakeoverMonday - Andy Kriebel, Eva Murray
+- Information Dashboard design - Stephen Few
+- Style: Lessons in Clarity and Grace - Joseph Williams Joseph Bizup
+
 
 ---
 
