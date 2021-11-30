@@ -46,7 +46,7 @@ Veel van de onderstaande boeken en resources zijn (ook) online te lezen.
 - **R packages** - Hadley Wickham, Jenny Bryan - *2021*
     - Tweede editie <https://r-pkgs.org/> (under construction)
     - Eerste editie <http://r-pkgs.had.co.nz/> 
-- *Advanced R* - Hadley Wickham - *2019*
+- **Advanced R** - Hadley Wickham - *2021*
     - *The book is designed primarily for R users who want to improve their programming skills and understanding of the language.*
     - <https://adv-r.hadley.nz/>
 - Happy Git and GitHub for the useR - Jenny Bryan
@@ -152,7 +152,9 @@ Veel van de onderstaande boeken en resources zijn (ook) online te lezen.
 - **Design Thinking** - Nigel Cross - *2021*
     - Hoe werken en denken designers?
     - Boek met diverse voorbeelden en studies die illustreren hoe designers denken.
-- Badass - Making Users Awesome - Kathy Sierra
+- **Badass - Making Users Awesome** - Kathy Sierra - *2021*
+    - Geweldig boek dat veel inzicht geeft je mensen kunt leren om ergens goed in te worden.
+    - Veel inzichten over hoe mensen en de automatische processen werken en hoe je dat kunt benutten om ze iets te leren.
 
 
 ---
